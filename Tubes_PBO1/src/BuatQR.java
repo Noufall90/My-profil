@@ -1,4 +1,3 @@
-
 import java.awt.Dimension;
 import java.awt.Toolkit;
 
@@ -31,8 +30,6 @@ public class BuatQR extends javax.swing.JFrame {
             this.setLocation(
                     (screenSize.width - frameSize.width) / 2, 
                     (screenSize.height - frameSize.height) / 2);
-        
-        
         
     }
 
